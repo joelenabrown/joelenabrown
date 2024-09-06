@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joelenabrown
+- 👀 I’m interested in mathematics, video games, and art!
+- 🌱 I’m currently learning statistics, R, and data analysis.
+- 😄 Pronouns: she/her
